@@ -1,0 +1,29 @@
+h1, li, h2, h3, p{
+    background-color: white;
+    color: rgb(255, 61, 61);
+    font-family: "MS Gothic";
+}
+
+body{
+    background-color: rgb(219, 219, 219);
+}
+
+h1{
+    text-align: center;
+}
+
+.homepage{
+    width: 300px;
+    height: auto;
+    float: right;
+    clear: right;
+    border: 4px solid rgb(255, 61, 61);
+}
+
+.recipePage{
+    width: 400px;
+    height: auto;
+    border: 4px solid rgb(255, 61, 61);
+    float: right;
+}
+
